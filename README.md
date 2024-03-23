@@ -1,0 +1,2 @@
+# ParolaListesi
+Sıralı Parola Listesi
